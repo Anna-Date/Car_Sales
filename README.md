@@ -47,7 +47,16 @@ The dataset contains **7 columns**:
    - Feature importance explains which factors matter most
 
 4. **Business Insights & Recommendations**
-
+* Mileage und Alter haben einen starken negativen Einfluss auf den Preis.
+  - Jeder zusätzliche Kilometer reduziert den Preis um ca. 0,038 €;
+  - Jedes zusätzliche Jahr senkt den Preis um ca. 989 €;
+  - größere Motoren erhöhen den Preis (Jede zusätzliche Einheit Motorgröße erhöht den Preis um ca. 8.934 €)
+  * Analyse zeigt, dass Diselhrzeuge am wertstabilsten sind;
+  * Die höhere Preise erzielen Porsche, BMW, Toyota;
+  * Größere Engine Sizes haben höhere Preise;
+  * Optimales Alter für den Wiederverkauf:
+    - Sweet Spot: 3–5 Jahre alt;
+    - Warnung!: Nach 6–7 Jahren → Preis sinkt deutlich, jedes zusätzliche Jahr kostet mehrere tausend Euro;
 
 ---
 
