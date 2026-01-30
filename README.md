@@ -59,7 +59,12 @@ The dataset contains **7 columns**:
 * **Optimales Alter für den Wiederverkauf:**
     - Sweet Spot: 3–5 Jahre alt;
     - Warnung!: Nach 6–7 Jahren → Preis sinkt deutlich, jedes zusätzliche Jahr kostet mehrere tausend Euro;
-
+---
+## Ranking der Einflussfaktoren
+> (praktische Relevanz)
+1. Engine size
+2. Car age
+3. Mileage
 ---
 
 ## Key Insights Visualizations
