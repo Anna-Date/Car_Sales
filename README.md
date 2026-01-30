@@ -52,7 +52,7 @@ The dataset contains **7 columns**:
 * **Mileage und Alter haben einen starken negativen Einfluss auf den Preis**.
   - **Jeder zusätzliche Kilometer reduziert den Preis um ca. 0,038 €;**
   - **Jedes zusätzliche Jahr senkt den Preis um ca. 989 €;**
-  - **größere Motoren erhöhen den Preis (Jede zusätzliche Einheit Motorgröße erhöht den Preis um ca. 8.934 €)**
+  - **größere Motoren erhöhen den Preis (Jede zusätzliche Einheit Motorgröße erhöht den Preis um ca. 8.934€)**
 * **Analyse zeigt, dass Diselhrzeuge am wertstabilsten sind;**
 * **Die höhere Preise erzielen Porsche, BMW, Toyota;**
 * **Größere Engine Sizes haben höhere Preise;**
